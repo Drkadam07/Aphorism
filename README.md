@@ -100,7 +100,7 @@ Ensure you have the following installed:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/aphorism.git
+git clone https://github.com/Drkadam07/Aphorism.git
 cd aphorism
 
 ```
