@@ -1,0 +1,16 @@
+
+.venv
+venv/
+.env/
+Client/
+server/app/.env 
+.node_modules/
+
+.venv/
+.env
+__pycache__/
+*.pyc
+quotes_app.db
+uploads/
+venv/
+node_modules
