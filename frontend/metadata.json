@@ -1,0 +1,6 @@
+{
+  "name": "Aphorism — Quotes & Public Threads",
+  "description": "A minimalist, typography-first platform for timeless quotes, aphorisms, and public intellectual threads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
