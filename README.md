@@ -281,6 +281,3 @@ This project is open-source and licensed under the [MIT License](https://www.goo
 
 *Built with FastAPI and Python for a distraction-free, text-first social web.*
 
-```
-
-```
