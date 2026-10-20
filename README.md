@@ -78,7 +78,7 @@ aphorism/
 │       ├── posts.py            # Quotes, replies, and thread trees
 │       ├── interactions.py     # Likes, bookmarks, and comments
 │       └── feed.py             # Cursor-paginated public timeline
-├── .env.example                # Sample environment configuration
+├── .env                        # Sample environment configuration
 ├── requirements.txt            # Python dependencies
 ├── main.py                     # Application entry point and CORS setup
 └── README.md                   # Project documentation
@@ -278,5 +278,5 @@ pytest
 This project is open-source and licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 ---
-
 *Built with FastAPI and Python for a distraction-free, text-first social web.*
+
