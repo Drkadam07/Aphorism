@@ -78,7 +78,7 @@ aphorism/
 │       ├── posts.py            # Quotes, replies, and thread trees
 │       ├── interactions.py     # Likes, bookmarks, and comments
 │       └── feed.py             # Cursor-paginated public timeline
-├── .env.example                # Sample environment configuration
+├── .env                        # Sample environment configuration
 ├── requirements.txt            # Python dependencies
 ├── main.py                     # Application entry point and CORS setup
 └── README.md                   # Project documentation
