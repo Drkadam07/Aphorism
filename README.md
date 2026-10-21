@@ -263,6 +263,16 @@ pytest
 
 ---
 
+# Demo
+
+![Project Screenshot](./frontend/assets/media_1792232925412_913cc9a1.png)
+![Project Screenshot](./frontend/assets/media_1792233024879_5d3ecad8.png)
+![Project Screenshot](./frontend/assets/media_1792233098048_a7110cf4.png)
+![Project Screenshot](./frontend/assets/media_1792233119692_4e5b0e21.png)
+![Project Screenshot](./frontend/assets/media_1792233152374_ae2d424a.png)
+![Project Screenshot](./frontend/assets/media_1792232932866_ba659aa6.png)
+
+
 ## 🗺️ Roadmap
 
 * [ ] Follower graph & personalized timeline (`/feed/following`)
